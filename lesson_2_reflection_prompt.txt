@@ -7,11 +7,14 @@ Staging area stands a proxy repo where We add our files required to upload in re
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+With staging area I can add or remove a file which relevant to any logical change or feature depended files.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If we need to create a new set of code features which may or may not be proceeded furthur , in that case we create a branch and if all goes well we can then merge it into master branch
 
 How do the diagrams help you visualize the branch structure?
+By diagrams we can see which commit are accessible and what to be done incase commits are not accessible.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
